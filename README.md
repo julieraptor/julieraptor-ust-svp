@@ -1,5 +1,7 @@
 # julieraptor-ust-svp
-Database for julieraptor's UST, USTx, SVP, TSSLN, etc. files for vocal synth
+Database for julieraptor's UST, USTx, SVP, TSSLN, etc. files for vocal synth.
+
+You can find the files in their respective folders!
 
 # Attribution
 - When publishing work with these files, you are required to state the author of the original files.
@@ -15,4 +17,7 @@ Database for julieraptor's UST, USTx, SVP, TSSLN, etc. files for vocal synth
 
 # Redistribution
 - You may only redistribute the original files without any changes to its original format.
-- If possible, please encourage people to retrieve the file from the origin by linking this website or the Google Drive folder of the files.
+- If possible, please encourage people to retrieve the file from the origin by linking this website.
+
+# Other
+- Thank you UtaUtaUtau for allowing me to adapt your TOS.
