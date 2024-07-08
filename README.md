@@ -3,6 +3,8 @@ Database for julieraptor's UST, USTx, SVP, TSSLN, etc. files for vocal synth.
 
 You can find the files in their respective folders!
 
+**Please note that these files may contain broken links. Please refer to the below Attribution section for current, correct links.**
+
 # Attribution
 - When publishing work with these files, you are required to state the author of the original files.
 - You must write the name of the author exactly as given: julieraptor
