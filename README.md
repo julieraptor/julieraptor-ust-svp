@@ -6,7 +6,9 @@ You can find the files in their respective folders!
 # Attribution
 - When publishing work with these files, you are required to state the author of the original files.
 - You must write the name of the author exactly as given: julieraptor
-- You must link to the author's pages: https://www.youtube.com/channel/UCaJ0Q7aEmNdZAME8zvxQICg https://twitter.com/utauraptor
+- You must link to the author's pages:
+-     https://www.youtube.com/channel/UCaJ0Q7aEmNdZAME8zvxQICg
+-     https://twitter.com/utauraptor
 - You must mention the file's original type if conversion for other synthesizers is done.
 
 # Editing
