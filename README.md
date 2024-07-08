@@ -5,6 +5,8 @@ You can find the files in their respective folders!
 
 **Please note that these files may contain broken links. Please refer to the below Attribution section for current, correct links.**
 
+_To download, navigate to the file you wish to download anc click 'View Raw' OR the download button on the right of the page._
+
 # Attribution
 - When publishing work with these files, you are required to state the author of the original files.
 - You must write the name of the author exactly as given: julieraptor
