@@ -12,7 +12,6 @@ _To download, navigate to the file you wish to download anc click 'View Raw' OR 
 - You must write the name of the author exactly as given: julieraptor
 - You must link to the author's pages:
   - [https://www.youtube.com/channel/UCaJ0Q7aEmNdZAME8zvxQICg](https://www.youtube.com/@chulie_chu/)
-  - [https://twitter.com/utauraptor](https://x.com/ChulieChu)
 - You must mention the file's original type if conversion for other synthesizers is done.
 
 # Editing
